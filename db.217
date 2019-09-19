@@ -1,0 +1,17 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	terra.es. admin.terra.es. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	terra.es.
+es.terra.in-addr.arpa.	IN	NS	terra.es.
+217.127.128.in-addr.arpa	IN	NS	terra.es.
+
+es.terra.in-addr.arpa.	IN	PTR	terra.es.
+199			IN	PTR	terra.es.
