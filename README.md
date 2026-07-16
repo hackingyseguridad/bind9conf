@@ -457,12 +457,9 @@ nameserver 8.8.4.4
 
 10.- named
 
-<p align="center">
-  <a href="http://www.hackingyseguridad.com">www.hackingyseguridad.com</a>
-</p>
 
 
 
-
-
-www.hackingyseguridad.com
+#
+http://www.hackingyseguridad.com/
+#
