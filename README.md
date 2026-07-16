@@ -1,4 +1,4 @@
-# bind9conf
+### bind9conf
 
 ### bind9conf — Configuración básica de un servidor DNS autoritativo con BIND9
 
@@ -22,7 +22,7 @@ Pensado como plantilla de referencia rápida para laboratorios, VMs de pruebas o
 8. [named.conf.options explicado](#-namedconfoptions-explicado)
 9. [Verificación y pruebas](#-verificación-y-pruebas)
 10. [Solución de problemas](#-solución-de-problemas)
-11. [⚠️ Aviso sobre los ficheros de ejemplo del repositorio](#️-aviso-sobre-los-ficheros-de-ejemplo-del-repositorio)
+11. [ Aviso sobre los ficheros de ejemplo del repositorio](#️-aviso-sobre-los-ficheros-de-ejemplo-del-repositorio)
 12. [Buenas prácticas de seguridad](#-buenas-prácticas-de-seguridad)
 13. [Licencia](#-licencia)
 
